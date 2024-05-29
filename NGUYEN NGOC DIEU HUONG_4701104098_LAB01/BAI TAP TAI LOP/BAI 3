@@ -1,0 +1,23 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Bai3
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            for (int i = 2; i <= 9; i++)
+            {
+                for (int j = 2; j <= 9; j++)
+                {
+                    Console.Write("{0} * {1} = {2} \t", j, i, i * j);
+                }
+                Console.WriteLine();
+            }
+        }
+    }
+}

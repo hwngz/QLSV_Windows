@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4701104098_NguyenNgocDieuHuong_Lab10", "4701104098_NguyenNgocDieuHuong_Lab10.csproj", "{7900C67B-94DF-42AA-BBC8-4BB500A7F965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTTL_lab10", "..\BTTL_lab10\BTTL_lab10.csproj", "{41DE2C12-AD7C-41A8-BDF2-6120B166F369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7900C67B-94DF-42AA-BBC8-4BB500A7F965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7900C67B-94DF-42AA-BBC8-4BB500A7F965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7900C67B-94DF-42AA-BBC8-4BB500A7F965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7900C67B-94DF-42AA-BBC8-4BB500A7F965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41DE2C12-AD7C-41A8-BDF2-6120B166F369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41DE2C12-AD7C-41A8-BDF2-6120B166F369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41DE2C12-AD7C-41A8-BDF2-6120B166F369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41DE2C12-AD7C-41A8-BDF2-6120B166F369}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E73FD8A-59CE-434D-9359-23AFA476D17B}
+	EndGlobalSection
+EndGlobal

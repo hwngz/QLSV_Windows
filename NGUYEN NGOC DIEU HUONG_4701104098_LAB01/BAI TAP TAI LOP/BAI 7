@@ -1,0 +1,23 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BAI7
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Nhap vao so N = ");
+            int N = Convert.ToInt32(Console.ReadLine());
+            long S = 0;
+            for (int i = 1; i <= N; i++)
+            {
+                S = S + i * i;
+            }
+            Console.WriteLine("Ket Qua: {0} ", S);
+        }
+    }
+}

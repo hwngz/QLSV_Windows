@@ -1,0 +1,37 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+using namespace BTTL
+{
+    class bai2
+    {
+        static void tinhTienDien (string[] args )
+        {
+            int SoDienTieuThu;
+            int TienDien;
+            int MucDien, HeSoTienDien;
+            Console.WriteLine("Tinh tien dien.  ");
+            TienDien = (SoDienTieuThu - MucDien) * HeSoTienDien;
+            SoDienTieuThu = MucDien;
+            int SoDienTieuThu, TienDien = 0;
+            Console.Write("Nhap vao so dien tieu thu thang qua: ");
+            SoDienTieuThu = int.Parse(Console.ReadLine());
+            
+            if (SoDienTieuThu > 300)
+                tinhTienDien(ref SoDienTieuThu, ref TienDien, 300, 20);
+            if (SoDienTieuThu > 200)
+                tinhTienDien(ref SoDienTieuThu, ref TienDien, 200, 15);
+            if (SoDienTieuThu > 150)
+                tinhTienDien(ref SoDienTieuThu, ref TienDien, 150, 10);
+            if (SoDienTieuThu > 100)
+                tinhTienDien(ref SoDienTieuThu, ref TienDien, 100, 7);
+            if (SoDienTieuThu > 0)
+                tinhTienDien(ref SoDienTieuThu, ref TienDien, 0, 5);
+
+            Console.WriteLine("Tien dien phai tra trong thang la: {0}", TienDien);
+        }
+    }
+}

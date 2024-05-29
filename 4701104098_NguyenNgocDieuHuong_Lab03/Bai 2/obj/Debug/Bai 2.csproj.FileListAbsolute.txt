@@ -1,0 +1,11 @@
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 2\bin\Debug\Bài tập về nhà winfom.exe.config
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 2\bin\Debug\Bài tập về nhà winfom.exe
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 2\bin\Debug\Bài tập về nhà winfom.pdb
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 2\obj\Debug\Bai 2.csproj.AssemblyReference.cache
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 2\obj\Debug\Bai 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 2\obj\Debug\Bài_tập_về_nhà_winfom.Form1.resources
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 2\obj\Debug\Bài_tập_về_nhà_winfom.Properties.Resources.resources
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 2\obj\Debug\Bai 2.csproj.GenerateResource.cache
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 2\obj\Debug\Bai 2.csproj.CoreCompileInputs.cache
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 2\obj\Debug\Bài tập về nhà winfom.exe
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 2\obj\Debug\Bài tập về nhà winfom.pdb

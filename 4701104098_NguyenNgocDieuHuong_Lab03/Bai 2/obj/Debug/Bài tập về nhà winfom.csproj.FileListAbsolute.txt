@@ -1,0 +1,11 @@
+D:\code c++\Visual Studio\Lap Trinh Tren Window\Bài tập về nhà winfom\bin\Debug\Bài tập về nhà winfom.exe.config
+D:\code c++\Visual Studio\Lap Trinh Tren Window\Bài tập về nhà winfom\bin\Debug\Bài tập về nhà winfom.exe
+D:\code c++\Visual Studio\Lap Trinh Tren Window\Bài tập về nhà winfom\bin\Debug\Bài tập về nhà winfom.pdb
+D:\code c++\Visual Studio\Lap Trinh Tren Window\Bài tập về nhà winfom\obj\Debug\Bài tập về nhà winfom.csproj.AssemblyReference.cache
+D:\code c++\Visual Studio\Lap Trinh Tren Window\Bài tập về nhà winfom\obj\Debug\Bài tập về nhà winfom.csproj.SuggestedBindingRedirects.cache
+D:\code c++\Visual Studio\Lap Trinh Tren Window\Bài tập về nhà winfom\obj\Debug\Bài_tập_về_nhà_winfom.Form1.resources
+D:\code c++\Visual Studio\Lap Trinh Tren Window\Bài tập về nhà winfom\obj\Debug\Bài_tập_về_nhà_winfom.Properties.Resources.resources
+D:\code c++\Visual Studio\Lap Trinh Tren Window\Bài tập về nhà winfom\obj\Debug\Bài tập về nhà winfom.csproj.GenerateResource.cache
+D:\code c++\Visual Studio\Lap Trinh Tren Window\Bài tập về nhà winfom\obj\Debug\Bài tập về nhà winfom.csproj.CoreCompileInputs.cache
+D:\code c++\Visual Studio\Lap Trinh Tren Window\Bài tập về nhà winfom\obj\Debug\Bài tập về nhà winfom.exe
+D:\code c++\Visual Studio\Lap Trinh Tren Window\Bài tập về nhà winfom\obj\Debug\Bài tập về nhà winfom.pdb

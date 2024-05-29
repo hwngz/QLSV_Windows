@@ -1,0 +1,32 @@
+C:\Users\Dell\source\repos\Lab 03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Dell\source\repos\Lab 03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Dell\source\repos\Lab 03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Dell\source\repos\Lab 03\WindowsFormsApp1\obj\Debug\Bai 5.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Lab 03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Dell\source\repos\Lab 03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Dell\source\repos\Lab 03\WindowsFormsApp1\obj\Debug\Bai 5.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Lab 03\WindowsFormsApp1\obj\Debug\Bai 5.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Lab 03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Dell\source\repos\Lab 03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\WindowsFormsApp1\obj\Debug\Bai 5.csproj.AssemblyReference.cache
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\WindowsFormsApp1\obj\Debug\Bai 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\WindowsFormsApp1\obj\Debug\Bai 5.csproj.GenerateResource.cache
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\WindowsFormsApp1\obj\Debug\Bai 5.csproj.CoreCompileInputs.cache
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 5\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 5\bin\Debug\WindowsFormsApp1.exe
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 5\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 5\obj\Debug\Bai 5.csproj.AssemblyReference.cache
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 5\obj\Debug\Bai 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 5\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 5\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 5\obj\Debug\Bai 5.csproj.GenerateResource.cache
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 5\obj\Debug\Bai 5.csproj.CoreCompileInputs.cache
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 5\obj\Debug\WindowsFormsApp1.exe
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 5\obj\Debug\WindowsFormsApp1.pdb

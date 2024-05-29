@@ -1,0 +1,22 @@
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab04\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab04\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab04\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab04\WindowsFormsApp1\obj\Debug\bai1.csproj.AssemblyReference.cache
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab04\WindowsFormsApp1\obj\Debug\bai1.csproj.SuggestedBindingRedirects.cache
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab04\WindowsFormsApp1\obj\Debug\bai1.csproj.GenerateResource.cache
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab04\WindowsFormsApp1\obj\Debug\bai1.csproj.CoreCompileInputs.cache
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab04\Bai tap tai lop\Bai1\bin\Debug\WindowsFormsApp1.exe.config
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab04\Bai tap tai lop\Bai1\bin\Debug\WindowsFormsApp1.exe
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab04\Bai tap tai lop\Bai1\bin\Debug\WindowsFormsApp1.pdb
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab04\Bai tap tai lop\Bai1\obj\Debug\bai1.csproj.AssemblyReference.cache
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab04\Bai tap tai lop\Bai1\obj\Debug\bai1.csproj.SuggestedBindingRedirects.cache
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab04\Bai tap tai lop\Bai1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab04\Bai tap tai lop\Bai1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab04\Bai tap tai lop\Bai1\obj\Debug\bai1.csproj.GenerateResource.cache
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab04\Bai tap tai lop\Bai1\obj\Debug\bai1.csproj.CoreCompileInputs.cache
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab04\Bai tap tai lop\Bai1\obj\Debug\WindowsFormsApp1.exe
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab04\Bai tap tai lop\Bai1\obj\Debug\WindowsFormsApp1.pdb

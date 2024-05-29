@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d20763cf-bb2b-4a48-be77-d0b042907a9b": {
+      "ProjectGuid": "d20763cf-bb2b-4a48-be77-d0b042907a9b",
+      "DisplayName": "4701104211_HuynhThanhTien_Lab04",
+      "ColorIndex": 0
+    },
+    "c90c7ea9-5763-4169-85b8-2d6ee0cdeec0": {
+      "ProjectGuid": "c90c7ea9-5763-4169-85b8-2d6ee0cdeec0",
+      "DisplayName": "bai1",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

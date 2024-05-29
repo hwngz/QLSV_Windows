@@ -1,0 +1,8 @@
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab02\Bài tập về nhà\bin\Debug\Bài tập về nhà.exe.config
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab02\Bài tập về nhà\bin\Debug\Bài tập về nhà.exe
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab02\Bài tập về nhà\bin\Debug\Bài tập về nhà.pdb
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab02\Bài tập về nhà\obj\Debug\Bai1.csproj.AssemblyReference.cache
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab02\Bài tập về nhà\obj\Debug\Bai1.csproj.SuggestedBindingRedirects.cache
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab02\Bài tập về nhà\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab02\Bài tập về nhà\obj\Debug\Bài tập về nhà.exe
+D:\code c++\Visual Studio\Lap Trinh Tren Window\4701104211_HuynhThanhTien_Lab02\Bài tập về nhà\obj\Debug\Bài tập về nhà.pdb

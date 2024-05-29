@@ -1,0 +1,54 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace bai9
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("nhap n: ");
+            int n = Convert.ToInt32(Console.ReadLine());
+            int i = 2;
+            int j;
+            int check = 0;
+            if (n < 2)
+            {
+                check = 0;
+            }
+
+            Console.Write("\nNhung snt nho hon n: ", n);
+            while (i < n)
+            {
+                check = 1;
+                if (i != 0 && i != 1)
+                {
+                    j = 2;
+                    while (j <= i / 2)
+                    {
+                        if (i % j == 0)
+                        {
+                            check = 0;
+                            break;
+                        }
+                        j++;
+                    }
+                }
+                else
+                {
+                    check = 0;
+                    Console.WriteLine("khong co snt");
+                }
+                if (check == 1)
+                {
+                    Console.Write("{0} ", i);
+                }
+                i++;
+            }
+            Console.WriteLine("\n");
+        }
+    }
+}

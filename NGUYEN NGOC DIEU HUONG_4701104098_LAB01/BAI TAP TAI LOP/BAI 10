@@ -1,0 +1,46 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace bai10
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int n;
+            Console.Write("nhap so luong mang: ");
+            n = int.Parse(Console.ReadLine());
+            int a, tong = 0, max = 0, min = 0;
+            for (int i = 0; i < n; i++)
+            {
+                Console.Write("\n phan tu {0} = ", i + 1);
+                a = int.Parse(Console.ReadLine());
+                if(a == 0) { break; }
+                tong = tong + a;
+                if (i == 0)
+                {
+                    min = a;
+                    max = a;
+                }
+                else
+                {
+                    if (min > a)
+                    {
+                        min=a;
+                    }
+                    if (max<a)
+                    {
+                        max=a;
+                    }
+                }
+            }
+            Console.WriteLine();
+            Console.WriteLine("tong = {0}", tong);
+            Console.WriteLine("max = {0}", max);
+            Console.WriteLine("min = {0}", min);
+        }
+    }
+}

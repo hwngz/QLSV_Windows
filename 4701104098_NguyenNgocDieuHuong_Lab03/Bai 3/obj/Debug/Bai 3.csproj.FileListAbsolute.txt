@@ -1,0 +1,21 @@
+C:\Users\Dell\source\repos\Lab 03\Bai 3\bin\Debug\Bai 3.exe.config
+C:\Users\Dell\source\repos\Lab 03\Bai 3\bin\Debug\Bai 3.exe
+C:\Users\Dell\source\repos\Lab 03\Bai 3\bin\Debug\Bai 3.pdb
+C:\Users\Dell\source\repos\Lab 03\Bai 3\obj\Debug\Bai 3.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Lab 03\Bai 3\obj\Debug\Bai_3.Form1.resources
+C:\Users\Dell\source\repos\Lab 03\Bai 3\obj\Debug\Bai_3.Properties.Resources.resources
+C:\Users\Dell\source\repos\Lab 03\Bai 3\obj\Debug\Bai 3.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Lab 03\Bai 3\obj\Debug\Bai 3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Lab 03\Bai 3\obj\Debug\Bai 3.exe
+C:\Users\Dell\source\repos\Lab 03\Bai 3\obj\Debug\Bai 3.pdb
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 3\bin\Debug\Bai 3.exe.config
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 3\bin\Debug\Bai 3.exe
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 3\bin\Debug\Bai 3.pdb
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 3\obj\Debug\Bai 3.csproj.AssemblyReference.cache
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 3\obj\Debug\Bai 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 3\obj\Debug\Bai_3.Form1.resources
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 3\obj\Debug\Bai_3.Properties.Resources.resources
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 3\obj\Debug\Bai 3.csproj.GenerateResource.cache
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 3\obj\Debug\Bai 3.csproj.CoreCompileInputs.cache
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 3\obj\Debug\Bai 3.exe
+C:\Users\TienThanh\Desktop\Lab 03\Lab 03\Bai 3\obj\Debug\Bai 3.pdb

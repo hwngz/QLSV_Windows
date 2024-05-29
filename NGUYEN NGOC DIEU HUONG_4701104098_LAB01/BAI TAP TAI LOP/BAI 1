@@ -1,0 +1,31 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace NGUYEN_NGOC_DIEU_HUONG_LAB01
+{
+    class Bai1
+    {
+        static void Main(string[] args)
+        {
+            int n;
+            Console.Write("nhap so luong: ");
+            n = int.Parse(Console.ReadLine());
+            double dongia;
+            Console.Write("nhap don gia: ");
+            dongia = double.Parse(Console.ReadLine());
+            double thanhtien;
+            thanhtien = dongia * n;
+            if (thanhtien > 100)
+            {
+                thanhtien *= 0.97;
+            }
+            Console.Write("so tien phai tra: ");
+            Console.WriteLine(thanhtien);
+
+            Console.ReadKey();
+        }
+    }
+}

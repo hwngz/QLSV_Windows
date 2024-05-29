@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f9707204-8ea9-41d4-a396-2817976e2c48": {
+      "ProjectGuid": "f9707204-8ea9-41d4-a396-2817976e2c48",
+      "DisplayName": "Rap chieu phim",
+      "ColorIndex": 0
+    },
+    "471892bb-b8a4-4839-900e-9466f82dc80a": {
+      "ProjectGuid": "471892bb-b8a4-4839-900e-9466f82dc80a",
+      "DisplayName": "May tinh bo tui",
+      "ColorIndex": 1
+    },
+    "e33ba64e-c27c-4c14-b1da-87841b5ed6fb": {
+      "ProjectGuid": "e33ba64e-c27c-4c14-b1da-87841b5ed6fb",
+      "DisplayName": "Bai 1",
+      "ColorIndex": 2
+    },
+    "c09d6273-506b-4000-9c28-98a3404966f9": {
+      "ProjectGuid": "c09d6273-506b-4000-9c28-98a3404966f9",
+      "DisplayName": "Bai 2",
+      "ColorIndex": 3
+    },
+    "c244bfd9-c839-4b21-9ea4-59e28c1da033": {
+      "ProjectGuid": "c244bfd9-c839-4b21-9ea4-59e28c1da033",
+      "DisplayName": "Bai 2",
+      "ColorIndex": 4
+    },
+    "584acc2d-8fa2-4610-902d-2054ef4095eb": {
+      "ProjectGuid": "584acc2d-8fa2-4610-902d-2054ef4095eb",
+      "DisplayName": "Bai 3",
+      "ColorIndex": 5
+    },
+    "a61a91e4-cb02-4a40-bb8b-43c392e51b8d": {
+      "ProjectGuid": "a61a91e4-cb02-4a40-bb8b-43c392e51b8d",
+      "DisplayName": "Bai 4",
+      "ColorIndex": 6
+    },
+    "e25aa876-8160-4607-8b7a-fc737f7e580b": {
+      "ProjectGuid": "e25aa876-8160-4607-8b7a-fc737f7e580b",
+      "DisplayName": "Bai 5",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}
